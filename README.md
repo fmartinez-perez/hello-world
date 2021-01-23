@@ -6,3 +6,5 @@ Aprendiendo con este tutorial inicial.
 Paso la vida corriendo, leyendo y programando entre otras cosas.
 
 Realizando cambio en local.
+
+Cambio para pull.
